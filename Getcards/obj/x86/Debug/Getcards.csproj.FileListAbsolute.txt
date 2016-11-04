@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Getcards\Getcards\obj\x86\Debug\Getcards.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Getcards\Getcards\obj\x86\Debug\Getcards.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Getcards\Getcards\bin\Debug\Getcards.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Getcards\Getcards\bin\Debug\Getcards.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Getcards\Getcards\obj\x86\Debug\Getcards.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Getcards\Getcards\bin\Debug\Newtonsoft.Json.dll
